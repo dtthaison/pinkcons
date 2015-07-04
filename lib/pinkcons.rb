@@ -1,0 +1,2 @@
+module Pinkcons
+end
